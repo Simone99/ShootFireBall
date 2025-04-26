@@ -1,0 +1,101 @@
+{
+    "m_SelectedDeviceId": "1e8204f8",
+    "m_SelectedPackage": {
+        "deviceId": "",
+        "name": "",
+        "processId": 0,
+        "exited": false
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "1e8204f8",
+            "name": "com.simomaster1.ShootFireBall",
+            "processId": 6956,
+            "exited": true
+        },
+        {
+            "deviceId": "1e8204f8",
+            "name": "com.simomaster1.ShootFireBall",
+            "processId": 2754,
+            "exited": true
+        },
+        {
+            "deviceId": "1e8204f8",
+            "name": "com.simomaster1.ShootFireBall",
+            "processId": 4923,
+            "exited": true
+        },
+        {
+            "deviceId": "1e8204f8",
+            "name": "org.telegram.messenger",
+            "processId": 17659,
+            "exited": true
+        },
+        {
+            "deviceId": "1e8204f8",
+            "name": "ch.deletescape.lawnchair.ci",
+            "processId": 4718,
+            "exited": true
+        },
+        {
+            "deviceId": "1e8204f8",
+            "name": "ch.deletescape.lawnchair.ci",
+            "processId": 4656,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 1,
+        "Behavior": 1
+    },
+    "m_Filter": "",
+    "m_FilterIsRegularExpression": false,
+    "m_SymbolPaths": []
+}
