@@ -1,17 +1,35 @@
 # ShootFireBall
 
-**Tired of dodging fireballs? It's time to fight back!**
+**Play it now on itch.io → [Click here](https://simomaster1.itch.io/shootfireball)!**
 
-In **ShootFireBall**, your mission is simple: **destroy as many fireballs as you can**.  
-But be careful — these fireballs are not what they used to be. They're stronger, and they grow bigger the more points you score!
+---
 
-Get your revenge on those fireballs and see how far you can go!
+**A 2D survival shooter where fireballs are out to get you!**
+
+In **ShootFireBall**, you control a player who can freely move across the screen while being chased by relentless fireballs.  
+Your only hope is to shoot them down — but be careful: the longer you survive, the bigger and tougher the fireballs become!  
+One wrong move and it's game over. How long can you last?
 
 ## Features
-- Fast-paced arcade gameplay
-- Fireballs that evolve as you play
-- Simple yet addictive mechanics
-- Retro-inspired pixel art and animations
+- 2D top-down movement and shooting
+- Fireballs that relentlessly pursue you
+- Fireballs grow larger and harder to destroy as you score points
+- Simple one-shot mechanic: quick to pick up, tough to master
+- Retro-inspired pixel art, effects, and music
+- **Best played with a controller for full functionality**
+
+## How to Play
+**Controller Recommended** 🎮
+- **Move**: D-Pad or Left Stick
+- **Aim**: Right Stick
+- **Jump**: X Button
+- **Shoot**: Right Trigger (R2)
+
+(Using a controller is highly recommended to fully enjoy the movement, aiming, and shooting mechanics.)
+
+## Play the Game
+You can play the game here:  
+👉 [https://simomaster1.itch.io/shootfireball](https://simomaster1.itch.io/shootfireball)
 
 ## License
 
