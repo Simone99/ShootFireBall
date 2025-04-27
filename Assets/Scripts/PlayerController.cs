@@ -49,7 +49,6 @@ public class PlayerController : MonoBehaviour
             }
             if(touchOutUIButtons){
                 // Handle finger movements based on TouchPhase
-                Debug.Log(touch.phase);
                 switch (touch.phase)
                 {
                     //When a touch has first been detected, change the message and record the starting position
@@ -189,7 +188,6 @@ public class PlayerController : MonoBehaviour
 
     public void OnMove(InputAction.CallbackContext context) {
         float direction = context.ReadValue<Vector2>().x;
-        Debug.Log(direction);
         if(!GameManager.gamePaused()){
             if (context.phase == InputActionPhase.Canceled){
                 animator.SetInteger("isMoving", 0);
